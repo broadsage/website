@@ -14,6 +14,7 @@
     "analyze": "turbo run analyze",
     "translate": "turbo run translate",
     "boundaries": "turbo run boundaries",
+    "generate": "turbo gen init",
     "bump-deps": "npx npm-check-updates --deep -u -x react-day-picker",
     "clean": "git clean -xdf node_modules"
   },
