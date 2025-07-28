@@ -3,5 +3,9 @@ packages:
   - packages/*
 onlyBuiltDependencies:
   - '@biomejs/biome'
+  - '@sentry/cli'
+  - '@tailwindcss/oxide'
+  - core-js
   - core-js-pure
   - esbuild
+  - sharp
