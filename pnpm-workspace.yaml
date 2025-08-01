@@ -3,6 +3,7 @@ packages:
   - packages/*
 onlyBuiltDependencies:
   - '@biomejs/biome'
+  - '@clerk/shared'
   - '@sentry/cli'
   - '@tailwindcss/oxide'
   - core-js
