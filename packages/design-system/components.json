@@ -8,14 +8,16 @@
     "css": "styles/globals.css",
     "baseColor": "neutral",
     "cssVariables": true,
-    "prefix": ""
+    "prefix": "tw-",
+    "rsc": true,
+    "tsx": true
   },
   "aliases": {
     "components": "@repo/design-system/components",
     "utils": "@repo/design-system/lib/utils",
     "hooks": "@repo/design-system/hooks",
     "lib": "@repo/design-system/lib",
-    "ui": "@repo/design-system/components/ui"
+    "ui": "@repo/design-system/components"
   },
   "iconLibrary": "lucide"
 }

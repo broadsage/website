@@ -8,7 +8,7 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
-} from '@repo/design-system/components/ui/command';
+} from '@repo/design-system/components/command';
 
 /**
  * Fast, composable, unstyled command menu for React.
